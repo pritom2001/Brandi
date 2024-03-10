@@ -1,0 +1,104 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+#head-main-section {
+    background: url('../img/Bandi_LandingPage_PSD_Template.jpg');
+}
+.navbar {
+    opacity: 0.7;
+    background: #042019;
+}
+.carousel-item {
+    height: 500px;
+}
+.heading-2 {
+    background: linear-gradient(rgba(0,0,0,0.7));
+}
+
+.fa2 {
+    color: #fff;
+    transition: 0.6s;
+}
+.fa2:hover {
+    color: aqua;
+}
+.head-head h4{
+    color: #0eb493;
+}
+.love-head {
+    margin-left: 440px;
+}
+#features {
+    background: #f4f8fb;
+}
+.ico-fea{
+    color: #0eb493;
+    padding: 8px;
+    border: 1px solid #0eb493;
+    border-radius: 20px;
+}
+.feature-text {
+    font-size: 13px;
+    color: #062033;
+}
+.menu-work button {
+    box-shadow: inset 0px 1px 5px 4px rgba(255, 255, 255, 0.123);
+    color: #;
+    border: 0;
+    border-radius: 5px;
+    padding: 5px 15px;
+    margin-left: 5px;
+    transition: 0.5s;
+    cursor: pointer;
+}
+.menu-work .active {
+    
+}
+.menu-work .mixitup-control-active {
+    background: #0eb493;
+    color: #fff;
+}
+.fa-eye {
+    border: 1px solid #fff;
+    color: #fff;
+    padding: 8px 13px;
+    border-radius: 25px;
+}
+.col-md-8 input {
+    border: none;
+    border-bottom: 1px solid #ccc
+}
+.right-icon a {
+    font-size: 20px;
+    color: darkgrey;
+}
+.right-icon a:hover {
+    color: #0eb493;
+}
+#animate-bar {
+    background: #f4f8fb;
+}
+.box {
+    margin-top: 45px;
+}
+svg.radial-progress circle {
+    stroke-width: 5;
+}
+svg.radial-progress text {
+    fill: #3c4761;
+    font-size: 15px;
+}
+svg.web-design circle {
+    stroke: #30bae7;
+}
+svg.html-css circle {
+    stroke: #d74680;
+}
+svg.graphic-design circle {
+    stroke: #15c7a8;
+}
+svg.ui-ux circle {
+    stroke: #eb7d4b;
+}
